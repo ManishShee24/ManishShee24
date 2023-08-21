@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5KRf_Cr7mIwv4aQvBAOY8wFpHAdUqnY3NQ&usqp=CAU">
 - 👨‍💻 All of my projects are available at [https://github.com/ManishShee24]
 
-- 💬 Ask me about **C, C++, Python, MySQL, Machine Learning**
+- 💬 Ask me about **C, C++, Python, SQL Languages**
+- 💬 Skills:- **DSA, Python Django, Python GUI, Data Science, Machine Learning, OOPS, DBMS, CN, OS**
 
 - 📫 How to reach me **manishshee2000@gmail.com**
 
